@@ -1,7 +1,7 @@
 
 # What is it? 
 
-A list of scripts to uninstall Visual Studio for Mac.
+A list of scripts to do a ***clean uninstall*** Visual Studio for Mac.
 
 To execute these scripts, it is advisable to execute them according to the script number provided
 
