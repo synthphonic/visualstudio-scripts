@@ -1,0 +1,12 @@
+uninstall scriptw
+
+1. vs for mac
+2. mono
+3. xamarin android
+4. xamarin ios
+5. xamarin mac
+6. nuget packages
+
+
+reference:
+https://docs.microsoft.com/en-my/visualstudio/mac/uninstall?view=vsmac-2019#uninstall-mono-sdk-mdk

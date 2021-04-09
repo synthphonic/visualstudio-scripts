@@ -1,0 +1,1 @@
+rm -rf ~/Library/Developer/Xamarin
