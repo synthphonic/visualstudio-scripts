@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/visualstudio/mac/uninstall?view=vsmac-2022#net-core-script
